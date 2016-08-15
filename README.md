@@ -1,2 +1,0 @@
-# funcio
-r package
