@@ -1,0 +1,10 @@
+Package: funcio
+Title: Numerical treatment with vectors
+Version: 0.1
+Author: Oriol Prat <oprat_@hotmail.com>
+Maintainer: Oriol Prat <oprat_@hotmail.com>
+Description: It incorporates three basic functions to facilitate the treatment with vectors.Addition operation, sorting and frequency table.
+Depends: R (>= 3.1.3)
+License: UB
+LazyData: true
+Built: R 3.1.3; ; 2015-11-15 19:28:42 UTC; windows
